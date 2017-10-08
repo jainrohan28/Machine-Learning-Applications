@@ -1,3 +1,7 @@
+# Creating an Artificial Neural Network to predict which customers will stay with a bank
+# and which are likely to leave based on various categories such as gender, age and if they have
+# a credit card with the bank. 
+
 # Artificial Neural Network
 
 # Importing the dataset
