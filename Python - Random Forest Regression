@@ -1,4 +1,4 @@
-
+#Finding correlation between employee level in a company and their total salary
 #Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
