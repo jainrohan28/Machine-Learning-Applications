@@ -1,3 +1,7 @@
+#Used k-nearest neighbors algorithm to predict car prices. Data was found on 
+
+https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data
+
 #Introduction To The Data Set
 
 In [120]:
